@@ -9,7 +9,6 @@ endif
 PRODUCT_PACKAGES += \
     Apollo \
     MonthCalendarWidget \
-    OpenDelta \
     OmniSwitch \
     Chromium \
     OmniJaws \
